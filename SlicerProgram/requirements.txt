@@ -1,0 +1,28 @@
+# === Core Slicer Dependencies ===
+
+# Numerical and array operations
+numpy
+
+# Spline fitting and interpolation
+scipy
+
+# 3D mesh loading and operations
+trimesh
+
+# Graph-based centerline finding
+networkx
+
+# 2D static plot generation
+matplotlib
+
+
+# === GUI & 3D Viewer Dependencies ===
+
+# 3D visualization library
+pyvista
+
+# Qt windowing backend (explicitly v5)
+PyQt5
+
+# PyVista-Qt integration/binding
+pyvistaqt

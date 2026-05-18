@@ -1,0 +1,49 @@
+\begin{table}[htbp]
+    \centering
+    \caption{Runtime comparison for the current sphere-based method, grouped by centreline sampling resolution.}
+    \label{tab:ec1_grouped_new_algorithm}
+    \scriptsize
+    \begin{tabular}{cccccc}
+        \toprule
+        Trial & $k$ & OF & Runtime [s] & Planes & Points \\
+        \midrule
+
+        \multicolumn{6}{c}{\textbf{Samples = 1000}} \\
+        \midrule
+        Trial 3 & 3 & 1.0 & 10.544 & 1334 & 278\,056 \\
+        Trial 4 & 4 & 1.0 & 10.066 & 1299 & 270\,908 \\
+        Trial 5 & 5 & 1.0 & 10.093 & 1267 & 263\,763 \\
+        Trial 6 & 6 & 1.0 & 9.092 & 1195 & 252\,657 \\
+
+        \midrule
+        \multicolumn{6}{c}{\textbf{Samples = 5000}} \\
+        \midrule
+        Trial 9  & 3 & 1.0 & 13.019 & 1337 & 278\,495 \\
+        Trial 10 & 4 & 1.0 & 11.271 & 1299 & 270\,861 \\
+        Trial 11 & 5 & 1.0 & 11.524 & 1267 & 263\,936 \\
+        Trial 12 & 6 & 1.0 & 11.422 & 1195 & 252\,756 \\
+
+        \midrule
+        \multicolumn{6}{c}{\textbf{Samples = 10000}} \\
+        \midrule
+        Trial 15 & 3 & \textbf{0.5} & 13.157 & 1306 & 274\,184 \\
+        Trial 16 & 4 & 0.5 & 11.344 & 1303 & 273\,580 \\
+        Trial 17 & 5 & 0.5 & 10.968 & 1273 & 267\,485 \\
+        Trial 18 & 6 & 0.5 & 10.597 & 1240 & 260\,656 \\
+
+        \addlinespace
+
+        Trial 21 & 3 & \textbf{1.0} & 11.807 & 1337 & 278\,497 \\
+        Trial 22 & 4 & 1.0 & 11.085 & 1299 & 270\,857 \\
+        Trial 23 & 5 & 1.0 & 10.906 & 1264 & 263\,919 \\
+        Trial 24 & 6 & 1.0 & 10.000 & 1195 & 252\,749 \\
+
+        \addlinespace
+
+        Trial 27 & 3 & \textbf{1.5} & 11.508 & 1320 & 275\,746 \\
+        Trial 28 & 4 & 1.5 & 11.706 & 1317 & 279\,750 \\
+        Trial 29 & 5 & 1.5 & 11.387 & 1308 & 273\,411 \\
+        Trial 30 & 6 & 1.5 & 7.626 & 1079 & 246\,088 \\
+        \bottomrule
+    \end{tabular}
+\end{table}

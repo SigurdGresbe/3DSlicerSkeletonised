@@ -1,0 +1,95 @@
+parameter,value
+run_timestamp,2026-05-15_15-18-45
+stl_file,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\mesh\CustomEdgecaseThesis.stl
+runtime_seconds,11.085382
+summary.branch_count,1
+summary.centreline_extension_length,0.0
+summary.centreline_start_arc,0.0
+summary.curve_bbox_padding_ratio,0.1
+summary.graph_strategy,mst
+summary.limit_curve_bbox,False
+summary.line_method,tree
+summary.max_point_distance_from_centreline,50.0
+summary.output_directory,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5
+summary.plane_count,1299
+summary.plane_spacing_max,0.20000000000004547
+summary.plane_spacing_mean,0.2
+summary.plane_spacing_min,0.19999999999998863
+summary.requested_line_method,tree
+summary.requested_sphere_generation_method,component_centroid
+summary.rerun_smoothing_passes,0
+summary.run_parameters_csv,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5\run_parameters_2026-05-15_15-18-45.csv
+summary.shell_point_count,270857
+summary.shell_points_csv,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5\shell_points_2026-05-15_15-18-45.csv
+summary.sphere_count,8
+summary.sphere_generation_method,component_centroid
+summary.sphere_max_diameter,25.0
+summary.sphere_min_diameter,7.0
+summary.start_arc,0.0
+summary.surface_curve_count,0
+setting.adaptive_plane_spacing,False
+setting.adaptive_spacing_min_factor,0.05
+setting.bg_color,#ffffff
+setting.centerline_color,#ff0000
+setting.centerline_thickness,1
+setting.centreline_extension_length,0.0
+setting.centreline_samples,10000
+setting.curve_bbox_padding_ratio,0.1
+setting.enable_nurbs,False
+setting.export_csv,True
+setting.export_layers_json,False
+setting.global_font_size,9
+setting.graph_strategy,mst
+setting.guide_color,#ffc857
+setting.knn_k,4
+setting.limit_curve_bbox,False
+setting.line_method,tree
+setting.log_font_size,8
+setting.max_point_distance_from_centreline,50.0
+setting.mesh_alpha,0.1
+setting.mesh_color,#25aa00
+setting.nurbs_angle_tolerance_deg,0.1
+setting.nurbs_min_points,1
+setting.nurbs_surface_count,1
+setting.outer_corner_spacing_safety,0.0
+setting.overlap_factor,1.0
+setting.overlay_font_color,#111111
+setting.overlay_font_size,8
+setting.perspective_view,False
+setting.plane_point_size,0.1
+setting.plane_spacing,0.2
+setting.rerun_smoothing_passes,0
+setting.selected_slice_alpha,1.0
+setting.shell_point_size,0.1
+setting.shell_point_spacing,0.3
+setting.show_bbox_limit,False
+setting.show_centerline,True
+setting.show_layer_normal,False
+setting.show_mesh,False
+setting.show_slices,True
+setting.show_spheres,True
+setting.show_surface_curves,False
+setting.slice_alpha,1.0
+setting.slice_color_normal,#01bbff
+setting.slice_color_selected,#000000
+setting.slice_thickness_normal,3
+setting.slice_thickness_selected,1
+setting.sphere_alpha,1.0
+setting.sphere_center_alpha,0.0
+setting.sphere_center_point_size,1
+setting.sphere_color,#ff0000
+setting.sphere_generation_method,component_centroid
+setting.sphere_max_diameter,25.0
+setting.sphere_min_diameter,7.0
+setting.sphere_thickness,1
+setting.spline_s,0.0
+setting.splitter_sizes,"[623, 1274]"
+setting.start_z,0.0
+setting.start_z_tolerance,1.0
+setting.stl_file,C:/Users/sigur/OneDrive - OsloMet/MasterRC/VS_code/MasterThesis/SlicerProgram/mesh/CustomEdgecaseThesis.stl
+setting.tree_sphere_graph_k,5
+setting.vis_skip_layers,10
+summary.view_x_image,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5\view_x_2026-05-15_15-18-45.png
+summary.view_y_image,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5\view_y_2026-05-15_15-18-45.png
+summary.hitbox_geometry_x_image,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5\hitbox_geometry_x_2026-05-15_15-18-45.png
+summary.hitbox_geometry_y_image,C:\Users\sigur\OneDrive - OsloMet\MasterRC\VS_code\MasterThesis\SlicerProgram\outputs\planned_batches\edgecase1_trials_2026-05-15_15-14-46\tree\component_centroid\CustomEdgecaseThesis_K4_Dmin7_Dmax25_OF1_s10k_PS0p2_SP0p3_f18499b5\hitbox_geometry_y_2026-05-15_15-18-45.png
